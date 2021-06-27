@@ -1,0 +1,5 @@
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping\obj\Debug\net5.0\OnlineShopping.UI.csprojAssemblyReference.cache
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping\obj\Debug\net5.0\OnlineShopping.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping\obj\Debug\net5.0\OnlineShopping.UI.AssemblyInfoInputs.cache
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping\obj\Debug\net5.0\OnlineShopping.UI.AssemblyInfo.cs
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping\obj\Debug\net5.0\OnlineShopping.UI.csproj.CoreCompileInputs.cache
