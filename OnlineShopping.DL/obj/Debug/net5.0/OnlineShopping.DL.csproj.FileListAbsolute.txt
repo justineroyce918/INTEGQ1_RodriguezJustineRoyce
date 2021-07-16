@@ -1,0 +1,15 @@
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\obj\Debug\net5.0\OnlineShopping.DL.csprojAssemblyReference.cache
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\obj\Debug\net5.0\OnlineShopping.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\obj\Debug\net5.0\OnlineShopping.DL.AssemblyInfoInputs.cache
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\obj\Debug\net5.0\OnlineShopping.DL.AssemblyInfo.cs
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\bin\Debug\net5.0\OnlineShopping.DL.deps.json
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\bin\Debug\net5.0\OnlineShopping.DL.dll
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\bin\Debug\net5.0\ref\OnlineShopping.DL.dll
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\bin\Debug\net5.0\OnlineShopping.DL.pdb
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\bin\Debug\net5.0\OnlineShoppingCommon.dll
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\bin\Debug\net5.0\OnlineShoppingCommon.pdb
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\obj\Debug\net5.0\OnlineShopping.DL.csproj.CoreCompileInputs.cache
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\obj\Debug\net5.0\OnlineShopping.DL.csproj.CopyComplete
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\obj\Debug\net5.0\OnlineShopping.DL.dll
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\obj\Debug\net5.0\ref\OnlineShopping.DL.dll
+C:\Users\Royce\source\repos\OnlineShopping\OnlineShopping.DL\obj\Debug\net5.0\OnlineShopping.DL.pdb

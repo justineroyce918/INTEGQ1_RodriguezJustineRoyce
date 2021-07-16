@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>88af2fc6-5b3a-47d3-a9b6-e499fdc37590</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShopping.BL\OnlineShopping.BL.csproj" />
+  </ItemGroup>
+
+</Project>
